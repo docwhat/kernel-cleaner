@@ -1,5 +1,7 @@
 # Kernel Cleaner
 
+[![Build Status](https://secure.travis-ci.org/docwhat/kernel-cleaner.png)](http://travis-ci.org/docwhat/kernel-cleaner)
+
 This script will output all the ubuntu kernel packages that are not:
 
 * The currently running kernel image.
