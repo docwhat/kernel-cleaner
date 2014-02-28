@@ -1,0 +1,125 @@
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                                    Version                                 Description
++++-=======================================-=======================================-===============================================================================
+un  linux-doc-3.0.0                         <none>                                  (no description available)
+un  linux-doc-3.2.0                         <none>                                  (no description available)
+ii  linux-firmware                          1.79.10                                 Firmware for Linux kernel drivers
+un  linux-generic                           <none>                                  (no description available)
+ii  linux-generic-pae                       3.2.0.59.70                             Complete Generic Linux kernel
+un  linux-headers                           <none>                                  (no description available)
+un  linux-headers-3                         <none>                                  (no description available)
+un  linux-headers-3.0                       <none>                                  (no description available)
+un  linux-headers-3.0.0-12                  <none>                                  (no description available)
+un  linux-headers-3.0.0-12-generic          <none>                                  (no description available)
+un  linux-headers-3.0.0-24                  <none>                                  (no description available)
+un  linux-headers-3.0.0-24-generic          <none>                                  (no description available)
+un  linux-headers-3.0.0-24-generic-pae      <none>                                  (no description available)
+un  linux-headers-3.0.0-25                  <none>                                  (no description available)
+un  linux-headers-3.0.0-25-generic          <none>                                  (no description available)
+un  linux-headers-3.0.0-25-generic-pae      <none>                                  (no description available)
+un  linux-headers-3.0.0-26                  <none>                                  (no description available)
+un  linux-headers-3.0.0-26-generic          <none>                                  (no description available)
+un  linux-headers-3.0.0-26-generic-pae      <none>                                  (no description available)
+un  linux-headers-3.0.0-28                  <none>                                  (no description available)
+un  linux-headers-3.0.0-28-generic          <none>                                  (no description available)
+un  linux-headers-3.0.0-28-generic-pae      <none>                                  (no description available)
+un  linux-headers-3.0.0-29                  <none>                                  (no description available)
+un  linux-headers-3.0.0-29-generic          <none>                                  (no description available)
+un  linux-headers-3.0.0-29-generic-pae      <none>                                  (no description available)
+un  linux-headers-3.0.0-30                  <none>                                  (no description available)
+un  linux-headers-3.0.0-30-generic          <none>                                  (no description available)
+un  linux-headers-3.0.0-30-generic-pae      <none>                                  (no description available)
+ii  linux-headers-3.2.0-36                  3.2.0-36.57                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-36-generic          3.2.0-36.57                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-36-generic-pae      3.2.0-36.57                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-37                  3.2.0-37.58                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-37-generic          3.2.0-37.58                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-37-generic-pae      3.2.0-37.58                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-38                  3.2.0-38.61                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-38-generic          3.2.0-38.61                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-38-generic-pae      3.2.0-38.61                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-39                  3.2.0-39.62                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-39-generic          3.2.0-39.62                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-39-generic-pae      3.2.0-39.62                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-40                  3.2.0-40.64                             Header files related to Linux kernel version 3.2.0
+un  linux-headers-3.2.0-40-generic          <none>                                  (no description available)
+un  linux-headers-3.2.0-40-generic-pae      <none>                                  (no description available)
+ii  linux-headers-3.2.0-41                  3.2.0-41.66                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-41-generic          3.2.0-41.66                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-41-generic-pae      3.2.0-41.66                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-43                  3.2.0-43.68                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-43-generic          3.2.0-43.68                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-43-generic-pae      3.2.0-43.68                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-51                  3.2.0-51.77                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-51-generic          3.2.0-51.77                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-51-generic-pae      3.2.0-51.77                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-52                  3.2.0-52.78                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-52-generic          3.2.0-52.78                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-52-generic-pae      3.2.0-52.78                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-53                  3.2.0-53.81                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-53-generic          3.2.0-53.81                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-53-generic-pae      3.2.0-53.81                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-54                  3.2.0-54.82                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-54-generic          3.2.0-54.82                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-54-generic-pae      3.2.0-54.82                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-55                  3.2.0-55.85                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-55-generic          3.2.0-55.85                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-55-generic-pae      3.2.0-55.85                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-56                  3.2.0-56.86                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-56-generic          3.2.0-56.86                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-56-generic-pae      3.2.0-56.86                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-57                  3.2.0-57.87                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-57-generic          3.2.0-57.87                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-57-generic-pae      3.2.0-57.87                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-58                  3.2.0-58.88                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-58-generic          3.2.0-58.88                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-58-generic-pae      3.2.0-58.88                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-59                  3.2.0-59.90                             Header files related to Linux kernel version 3.2.0
+ii  linux-headers-3.2.0-59-generic          3.2.0-59.90                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-3.2.0-59-generic-pae      3.2.0-59.90                             Linux kernel headers for version 3.2.0 on 32 bit x86 SMP
+ii  linux-headers-generic                   3.2.0.59.70                             Generic Linux kernel headers
+ii  linux-headers-generic-pae               3.2.0.59.70                             Generic Linux kernel headers
+un  linux-headers-rt                        <none>                                  (no description available)
+un  linux-headers-server                    <none>                                  (no description available)
+un  linux-headers-virtual                   <none>                                  (no description available)
+un  linux-image                             <none>                                  (no description available)
+un  linux-image-3.0                         <none>                                  (no description available)
+un  linux-image-3.0.0-12-generic            <none>                                  (no description available)
+un  linux-image-3.0.0-24-generic            <none>                                  (no description available)
+un  linux-image-3.0.0-24-generic-pae        <none>                                  (no description available)
+un  linux-image-3.0.0-25-generic            <none>                                  (no description available)
+un  linux-image-3.0.0-25-generic-pae        <none>                                  (no description available)
+un  linux-image-3.0.0-26-generic            <none>                                  (no description available)
+un  linux-image-3.0.0-26-generic-pae        <none>                                  (no description available)
+un  linux-image-3.0.0-28-generic-pae        <none>                                  (no description available)
+un  linux-image-3.0.0-29-generic-pae        <none>                                  (no description available)
+un  linux-image-3.0.0-30-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-36-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-37-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-38-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-39-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-40-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-41-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-43-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-51-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-52-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-53-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-54-generic-pae        <none>                                  (no description available)
+un  linux-image-3.2.0-55-generic-pae        <none>                                  (no description available)
+ii  linux-image-3.2.0-56-generic-pae        3.2.0-56.86                             Linux kernel image for version 3.2.0 on 32 bit x86 SMP
+ii  linux-image-3.2.0-57-generic-pae        3.2.0-57.87                             Linux kernel image for version 3.2.0 on 32 bit x86 SMP
+ii  linux-image-3.2.0-58-generic-pae        3.2.0-58.88                             Linux kernel image for version 3.2.0 on 32 bit x86 SMP
+ii  linux-image-3.2.0-59-generic-pae        3.2.0-59.90                             Linux kernel image for version 3.2.0 on 32 bit x86 SMP
+un  linux-image-generic                     <none>                                  (no description available)
+iU  linux-image-generic-pae                 3.2.0.59.70                             Generic Linux kernel image
+un  linux-initramfs-tool                    <none>                                  (no description available)
+un  linux-kernel-headers                    <none>                                  (no description available)
+un  linux-kernel-log-daemon                 <none>                                  (no description available)
+ii  linux-libc-dev                          3.2.0-59.90                             Linux Kernel Headers for development
+un  linux-restricted-common                 <none>                                  (no description available)
+ii  linux-sound-base                        1.0.25+dfsg-0ubuntu1.1                  base package for ALSA and OSS sound systems
+un  linux-source-3.0.0                      <none>                                  (no description available)
+un  linux-source-3.2.0                      <none>                                  (no description available)
+un  linux-tools                             <none>                                  (no description available)
