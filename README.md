@@ -15,7 +15,7 @@ Copy `kernel-cleaner.rb` to your system.
 Then run:
 
 ```bash
-ruby kernel-cleaner.rb -0 | xargs -0 apt-get purge -y
+ruby kernel-cleaner.rb -0 | xargs -0 --no-run-if-empty apt-get purge -y
 ```
 
 You can put the above line a cron job.
