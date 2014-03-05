@@ -3,6 +3,8 @@
 class App
   def self.run
     self.new.run
+    $stderr.puts "Run this command to purge the packages:"
+    $stderr.puts "ruby #{__FILE__} -0 | xargs -0 --no-run-if-empty apt-get purge -y"
   end
 
   def exec_dpkg_list
